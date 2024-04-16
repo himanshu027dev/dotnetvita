@@ -1,0 +1,14 @@
+E:\default dotnet\ass.net\shapespoly\bin\Debug\net8.0\shapespoly.exe
+E:\default dotnet\ass.net\shapespoly\bin\Debug\net8.0\shapespoly.deps.json
+E:\default dotnet\ass.net\shapespoly\bin\Debug\net8.0\shapespoly.runtimeconfig.json
+E:\default dotnet\ass.net\shapespoly\bin\Debug\net8.0\shapespoly.dll
+E:\default dotnet\ass.net\shapespoly\bin\Debug\net8.0\shapespoly.pdb
+E:\default dotnet\ass.net\shapespoly\obj\Debug\net8.0\shapespoly.GeneratedMSBuildEditorConfig.editorconfig
+E:\default dotnet\ass.net\shapespoly\obj\Debug\net8.0\shapespoly.AssemblyInfoInputs.cache
+E:\default dotnet\ass.net\shapespoly\obj\Debug\net8.0\shapespoly.AssemblyInfo.cs
+E:\default dotnet\ass.net\shapespoly\obj\Debug\net8.0\shapespoly.csproj.CoreCompileInputs.cache
+E:\default dotnet\ass.net\shapespoly\obj\Debug\net8.0\shapespoly.dll
+E:\default dotnet\ass.net\shapespoly\obj\Debug\net8.0\refint\shapespoly.dll
+E:\default dotnet\ass.net\shapespoly\obj\Debug\net8.0\shapespoly.pdb
+E:\default dotnet\ass.net\shapespoly\obj\Debug\net8.0\shapespoly.genruntimeconfig.cache
+E:\default dotnet\ass.net\shapespoly\obj\Debug\net8.0\ref\shapespoly.dll
