@@ -1,0 +1,14 @@
+E:\default dotnet\ass.net\fubacknk\bin\Debug\net8.0\fubacknk.exe
+E:\default dotnet\ass.net\fubacknk\bin\Debug\net8.0\fubacknk.deps.json
+E:\default dotnet\ass.net\fubacknk\bin\Debug\net8.0\fubacknk.runtimeconfig.json
+E:\default dotnet\ass.net\fubacknk\bin\Debug\net8.0\fubacknk.dll
+E:\default dotnet\ass.net\fubacknk\bin\Debug\net8.0\fubacknk.pdb
+E:\default dotnet\ass.net\fubacknk\obj\Debug\net8.0\fubacknk.GeneratedMSBuildEditorConfig.editorconfig
+E:\default dotnet\ass.net\fubacknk\obj\Debug\net8.0\fubacknk.AssemblyInfoInputs.cache
+E:\default dotnet\ass.net\fubacknk\obj\Debug\net8.0\fubacknk.AssemblyInfo.cs
+E:\default dotnet\ass.net\fubacknk\obj\Debug\net8.0\fubacknk.csproj.CoreCompileInputs.cache
+E:\default dotnet\ass.net\fubacknk\obj\Debug\net8.0\fubacknk.dll
+E:\default dotnet\ass.net\fubacknk\obj\Debug\net8.0\refint\fubacknk.dll
+E:\default dotnet\ass.net\fubacknk\obj\Debug\net8.0\fubacknk.pdb
+E:\default dotnet\ass.net\fubacknk\obj\Debug\net8.0\fubacknk.genruntimeconfig.cache
+E:\default dotnet\ass.net\fubacknk\obj\Debug\net8.0\ref\fubacknk.dll

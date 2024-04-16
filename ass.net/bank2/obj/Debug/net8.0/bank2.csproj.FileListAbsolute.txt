@@ -1,0 +1,14 @@
+E:\default dotnet\ass.net\bank2\bin\Debug\net8.0\bank2.exe
+E:\default dotnet\ass.net\bank2\bin\Debug\net8.0\bank2.deps.json
+E:\default dotnet\ass.net\bank2\bin\Debug\net8.0\bank2.runtimeconfig.json
+E:\default dotnet\ass.net\bank2\bin\Debug\net8.0\bank2.dll
+E:\default dotnet\ass.net\bank2\bin\Debug\net8.0\bank2.pdb
+E:\default dotnet\ass.net\bank2\obj\Debug\net8.0\bank2.GeneratedMSBuildEditorConfig.editorconfig
+E:\default dotnet\ass.net\bank2\obj\Debug\net8.0\bank2.AssemblyInfoInputs.cache
+E:\default dotnet\ass.net\bank2\obj\Debug\net8.0\bank2.AssemblyInfo.cs
+E:\default dotnet\ass.net\bank2\obj\Debug\net8.0\bank2.csproj.CoreCompileInputs.cache
+E:\default dotnet\ass.net\bank2\obj\Debug\net8.0\bank2.dll
+E:\default dotnet\ass.net\bank2\obj\Debug\net8.0\refint\bank2.dll
+E:\default dotnet\ass.net\bank2\obj\Debug\net8.0\bank2.pdb
+E:\default dotnet\ass.net\bank2\obj\Debug\net8.0\bank2.genruntimeconfig.cache
+E:\default dotnet\ass.net\bank2\obj\Debug\net8.0\ref\bank2.dll
