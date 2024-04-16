@@ -1,0 +1,11 @@
+E:\default dotnet\ass.net\ClassLibraryAA\bin\Debug\net8.0\ClassLibraryAA.deps.json
+E:\default dotnet\ass.net\ClassLibraryAA\bin\Debug\net8.0\ClassLibraryAA.dll
+E:\default dotnet\ass.net\ClassLibraryAA\bin\Debug\net8.0\ClassLibraryAA.pdb
+E:\default dotnet\ass.net\ClassLibraryAA\obj\Debug\net8.0\ClassLibraryAA.GeneratedMSBuildEditorConfig.editorconfig
+E:\default dotnet\ass.net\ClassLibraryAA\obj\Debug\net8.0\ClassLibraryAA.AssemblyInfoInputs.cache
+E:\default dotnet\ass.net\ClassLibraryAA\obj\Debug\net8.0\ClassLibraryAA.AssemblyInfo.cs
+E:\default dotnet\ass.net\ClassLibraryAA\obj\Debug\net8.0\ClassLibraryAA.csproj.CoreCompileInputs.cache
+E:\default dotnet\ass.net\ClassLibraryAA\obj\Debug\net8.0\ClassLibraryAA.dll
+E:\default dotnet\ass.net\ClassLibraryAA\obj\Debug\net8.0\refint\ClassLibraryAA.dll
+E:\default dotnet\ass.net\ClassLibraryAA\obj\Debug\net8.0\ClassLibraryAA.pdb
+E:\default dotnet\ass.net\ClassLibraryAA\obj\Debug\net8.0\ref\ClassLibraryAA.dll
